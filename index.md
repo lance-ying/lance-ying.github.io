@@ -13,4 +13,3 @@ I am a Ph.D. student affiliated with the Intelligent Interactive System Group at
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
