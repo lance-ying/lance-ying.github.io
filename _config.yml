@@ -2,7 +2,7 @@
 title: Lance Ying
 position: Ph.D. Student in Computer Science
 affiliation: Harvard University
-email: lanceying (at) seas (dot) harvard (dot) edu
+email: lanceying (at) seas.harvard.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,10 +12,10 @@ canonical: https://lance-ying.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+# google_scholar: https://scholar.google.com/
+cv_link: assets/files/cv.pdf
+linkedin: https://www.linkedin.com/in/lance-ying
+twitter: https://twitter.com/lance_ying42
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
