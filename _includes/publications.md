@@ -14,6 +14,27 @@
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://icml.cc/virtual/2023/workshop/21489#wse-detail-27876"> The Neuro-Symbolic Inverse Planning Engine (NIPE): Modeling probabilistic social inferences from linguistic inputs </a></div>
+    <div class="author"><strong>Lance Ying</strong>, Katie Collins, Megan Wei, Cedegao Zhang, Tan Zhi-Xuan, Adrian Weller, Josh Tenenbaum, Catherine Wong </div>
+    <div class="periodical"><em>2023 ICML Workshop on Theory of Mind in Communicating Agents</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://icml.cc/virtual/2023/workshop/21489#wse-detail-27876"> 	Inferring the Goals of Communicating Agents from Actions and Instructions </a></div>
+    <div class="author"><strong>Lance Ying</strong>, Tan Zhi-Xuan, Vikash Mansinghka, Josh Tenenbaum</div>
+    <div class="periodical"><em>2023 ICML Workshop on Theory of Mind in Communicating Agents</em></div>
+  </div>
+</div>
+</li>
+
   
 <br>
 
